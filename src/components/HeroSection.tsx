@@ -40,7 +40,7 @@ const HeroSection = () => {
             <Button variant="hero" size="xl">
               Book a Session
             </Button>
-            <Button variant="outline" size="xl" className="border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10">
+            <Button variant="outline" size="xl" className="border-primary-foreground/50 bg-primary-foreground/20 text-primary-foreground hover:bg-primary-foreground/30 backdrop-blur-sm">
               How It Works
             </Button>
           </div>
